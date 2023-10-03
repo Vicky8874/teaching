@@ -1,0 +1,36 @@
+@import './base.css';
+:root {
+  --color-bg: #f00;
+  --color-text: #000;
+}
+
+#app {
+  font-size: 20px;
+}
+
+.button {
+  border: 1px black solid;
+  padding: 0 10px;
+  margin: 10px;
+  background-color: #ececec;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.page {
+  text-decoration-line: underline;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.page_allowed {
+  text-decoration-line: underline;
+  font-size: 14px;
+  cursor: not-allowed;
+  color: #999;
+}
+
+.a {
+  color: var(--color-text);
+  /* background-color: var(--color-bg); */
+}

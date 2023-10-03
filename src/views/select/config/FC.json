@@ -1,0 +1,562 @@
+[
+    {
+        "gameCode": 22048,
+        "gameImg": "22048.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "瘋狂野牛",
+            "zh-CN": "疯狂野牛",
+            "en-US": "CRAZY BUFFALO",
+            "vn-VN": "Trâu Hoang Điên Cuồng",
+            "th-TH": "เครซี่ บัฟฟาโล่",
+            "default": 22048
+        }
+    },
+    {
+        "gameCode": 22047,
+        "gameImg": "22047.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "神燈金靈",
+            "zh-CN": "神灯金灵",
+            "en-US": "GOLDEN GENIE",
+            "vn-VN": "Kim Linh Thần Đèn",
+            "th-TH": "จินนี่ทองคำ",
+            "default": 22047
+        }
+    },
+    {
+        "gameCode": 22045,
+        "gameImg": "22045.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "合成與魔法",
+            "zh-CN": "合成与魔法",
+            "en-US": "MERGE MAGIC",
+            "vn-VN": "Ma Thuật Ghép",
+            "th-TH": "เวทมนตร์ผสาน",
+            "default": 22045
+        }
+    },
+    {
+        "gameCode": 22043,
+        "gameImg": "22043.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "蜜糖爆擊",
+            "zh-CN": "蜜糖爆击",
+            "en-US": "SUGAR BANG BANG",
+            "vn-VN": "Bạo Kích Đường Mật",
+            "th-TH": "ซูการ์ แบง แบง",
+            "default": 22043
+        }
+    },
+    {
+        "gameCode": 22042,
+        "gameImg": "22042.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "古墓秘寶",
+            "zh-CN": "古墓秘宝",
+            "en-US": "TREASURE RAIDERS",
+            "vn-VN": "Bí Bảo Cổ Mộ",
+            "th-TH": "ขุมทรัพย์โบราณ",
+            "default": 22042
+        }
+    },
+    {
+        "gameCode": 22041,
+        "gameImg": "22041.png",
+        "gameType": "slot",
+        "status": 1,
+        "gameName": {
+            "zh-TW": "大過年2",
+            "zh-CN": "大过年2",
+            "en-US": "CHINESE NEW YEAR 2",
+            "vn-VN": "Cuối Năm 2",
+            "th-TH": "ปีตรุษจีน 2",
+            "default": 22041
+        }
+    },
+    {
+        "gameCode": 22041,
+        "gameImg": "22040.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "財富連連",
+            "zh-CN": "财富连连",
+            "en-US": "LUCKY FORTUNES",
+            "vn-VN": "Của Cài Dồi Dào",
+            "th-TH": "ลัคกี้ฟอร์จูนส์",
+            "default": 22040
+        }
+    },
+    {
+        "gameCode": 22039,
+        "gameImg": "22039.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "羅賓漢",
+            "zh-CN": "罗宾汉",
+            "en-US": "ROBIN HOOD",
+            "vn-VN": "Robin Hood",
+            "th-TH": "โรบินฮู้ด",
+            "default": 22039
+        }
+    },
+    {
+        "gameCode": 22038,
+        "gameImg": "22038.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "羅馬競技",
+            "zh-CN": "罗马竞技",
+            "en-US": "GLORY OF ROME",
+            "vn-VN": "Tranh Đấu La Mã",
+            "th-TH": "เกียรติยศแห่งโรม",
+            "default": 22038
+        }
+    },
+    {
+        "gameCode": 22037,
+        "gameImg": "22037.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "巨海覓寶",
+            "zh-CN": "巨海觅宝",
+            "en-US": "GRAND BLUE",
+            "vn-VN": "Tầm Bảo Biển Lớn",
+            "th-TH": "ล่าสมบัติมหาสมุทร",
+            "default": 22037
+        }
+    },
+    {
+        "gameCode": 21008,
+        "gameImg": "21008.png",
+        "gameType": "fish",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "星際捕魚",
+            "zh-CN": "星际捕鱼",
+            "en-US": "STAR HUNTER",
+            "vn-VN": "Bắt Cá Vũ Trụ",
+            "th-TH": "ตกปลาดารกะ",
+            "default": 21008
+        }
+    },
+    {
+        "gameCode": 21007,
+        "gameImg": "21007.png",
+        "gameType": "fish",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "發財捕魚",
+            "zh-CN": "发财捕鱼",
+            "en-US": "FA CHAI FISHING",
+            "vn-VN": "Bắt Cá Phát Tài",
+            "th-TH": "จับปลาโชคลาภ",
+            "default": 21007
+        }
+    },
+    {
+        "gameCode": 21006,
+        "gameImg": "21006.png",
+        "gameType": "fish",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "激鬥捕魚",
+            "zh-CN": "激斗捕鱼",
+            "en-US": "FIERCE FISHING",
+            "vn-VN": "Bắt Cá Kịch Tính",
+            "th-TH": "ศึกเดือดตกปลา",
+            "default": 21006
+        }
+    },
+    {
+        "gameCode": 21004,
+        "gameImg": "21004.png",
+        "gameType": "fish",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "寶船捕魚",
+            "zh-CN": "宝船捕鱼",
+            "en-US": "BAO CHUAN FISHING",
+            "vn-VN": "Thuyền Quý Bắt Cá ",
+            "th-TH": "ตกปลาเรือสมบัติ",
+            "default": 21004
+        }
+    },
+    {
+        "gameCode": 21003,
+        "gameImg": "21003.png",
+        "gameType": "fish",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "大聖捕魚",
+            "zh-CN": "大圣捕鱼",
+            "en-US": "MONKEY KING FISHING",
+            "vn-VN": "Đại Thánh Bắt Cá ",
+            "th-TH": "ตกปลามหาเทพ",
+            "default": 21003
+        }
+    },
+    {
+        "gameCode": 22016,
+        "gameImg": "22016.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "金錢豹",
+            "zh-CN": "金钱豹",
+            "en-US": "GOLDEN PANTHER",
+            "vn-VN": "Báo Kim Tiền",
+            "th-TH": "เสือดาวเงินทอง",
+            "default": 22016
+        }
+    },
+    {
+        "gameCode": 22017,
+        "gameImg": "22017.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "三只小豬",
+            "zh-CN": "三只小猪",
+            "en-US": "THREE LITTLE PIGS",
+            "vn-VN": "Ba Con Heo Nhỏ",
+            "th-TH": "ลูกหมูสามตัว",
+            "default": 22017
+        }
+    },
+    {
+        "gameCode": 22018,
+        "gameImg": "22018.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "逛夜市",
+            "zh-CN": "逛夜市",
+            "en-US": "NIGHT MARKET",
+            "vn-VN": "Dạo Chơi Phố Đêm",
+            "th-TH": "ไนท์มาร์เก็ต",
+            "default": 22018
+        }
+    },
+    {
+        "gameCode": 22019,
+        "gameImg": "22019.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "熊貓龍舟",
+            "zh-CN": "熊猫龙舟",
+            "en-US": "PANDA DRAGON BOAT",
+            "vn-VN": "Thuyền Rồng Gấu Trúc",
+            "th-TH": "เรือมังกรแพนด้า",
+            "default": 22019
+        }
+    },
+    {
+        "gameCode": 22020,
+        "gameImg": "22020.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "大過年",
+            "zh-CN": "大过年",
+            "en-US": "CHINESE NEW YEAR",
+            "vn-VN": "Cuối Năm",
+            "th-TH": "ปีตรุษจีน",
+            "default": 22020
+        }
+    },
+    {
+        "gameCode": 22021,
+        "gameImg": "22021.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "碰碰胡",
+            "zh-CN": "碰碰胡",
+            "en-US": "PONG PONG HU",
+            "vn-VN": "Bính Bính Hồ",
+            "th-TH": "พ่อง พ่อง หู",
+            "default": 22021
+        }
+    },
+    {
+        "gameCode": 22022,
+        "gameImg": "22022.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "錦鯉躍錢",
+            "zh-CN": "锦鲤跃钱",
+            "en-US": "FORTUNE KOI",
+            "vn-VN": "Cá Chép Tiền Tài",
+            "th-TH": "คาร์ปนำโชค",
+            "default": 22022
+        }
+    },
+    {
+        "gameCode": 22023,
+        "gameImg": "22023.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "大樂門",
+            "zh-CN": "大乐门",
+            "en-US": "DA LE MEN",
+            "vn-VN": "Đại Nhạc Môn",
+            "th-TH": "ต้าเล่อเหมิน",
+            "default": 22023
+        }
+    },
+    {
+        "gameCode": 22048,
+        "gameImg": "22048.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "龜兔賽車",
+            "zh-CN": "龟兔赛车",
+            "en-US": "ANIMAL RACING",
+            "vn-VN": "Rùa Thỏ Đua Xe",
+            "th-TH": "เต่ากระต่ายเรซซิ่ง",
+            "default": 22048
+        }
+    },
+    {
+        "gameCode": 22026,
+        "gameImg": "22026.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "火鍋派對",
+            "zh-CN": "火锅派对",
+            "en-US": "HOT POT PARTY",
+            "vn-VN": "Tiệc Lẩu",
+            "th-TH": "ปาร์ตี้หม้อไฟ",
+            "default": 22026
+        }
+    },
+    {
+        "gameCode": 22027,
+        "gameImg": "22027.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "開心奪寶",
+            "zh-CN": "开心夺宝",
+            "en-US": "HAPPY DUO BAO",
+            "vn-VN": "Đoạt Bảo Vui Nhộn",
+            "th-TH": "ล่าสมบัติแฮปปี้",
+            "default": 22027
+        }
+    },
+    {
+        "gameCode": 22028,
+        "gameImg": "22028.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "尋寶奇航",
+            "zh-CN": "寻宝奇航",
+            "en-US": "TREASURE CRUISE",
+            "vn-VN": "Căng Buồm Tầm Bảo",
+            "th-TH": "เรือล่าสมบัติ",
+            "default": 22028
+        }
+    },
+    {
+        "gameCode": 22029,
+        "gameImg": "22029.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "西部風雲",
+            "zh-CN": "西部风云",
+            "en-US": "COWBOYS",
+            "vn-VN": "Tây Bộ Phong Vân",
+            "th-TH": "ลมตะวันตก",
+            "default": 22029
+        }
+    },
+    {
+        "gameCode": 22030,
+        "gameImg": "22030.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "豪華金錢豹",
+            "zh-CN": "豪华金钱豹",
+            "en-US": "LUXURY GOLDEN PANTHER",
+            "vn-VN": "Báo Kim Tiền Xa Hoa",
+            "th-TH": "เสือดาวทองสุดหรู",
+            "default": 22030
+        }
+    },
+    {
+        "gameCode": 22048,
+        "gameImg": "22048.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "宇宙大戰",
+            "zh-CN": "宇宙大战",
+            "en-US": "WAR OF THE UNIVERSE",
+            "vn-VN": "Vũ Trụ Đại Chiến",
+            "th-TH": "ศึกจักรวาล",
+            "default": 22048
+        }
+    },
+    {
+        "gameCode": 22032,
+        "gameImg": "22032.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "魔豆",
+            "zh-CN": "魔豆",
+            "en-US": "MAGIC BEANS",
+            "vn-VN": "Đậu Ma",
+            "th-TH": "ถั่ววิเศษ",
+            "default": 22032
+        }
+    },
+    {
+        "gameCode": 22034,
+        "gameImg": "22034.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "淘金樂",
+            "zh-CN": "淘金乐",
+            "en-US": "GOLD RUSH",
+            "vn-VN": "Kiếm Tiền Vui",
+            "th-TH": "โกลด์รัช",
+            "default": 22034
+        }
+    },
+    {
+        "gameCode": 22036,
+        "gameImg": "22036.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "富貴大亨",
+            "zh-CN": "富贵大亨",
+            "en-US": "RICH MAN",
+            "vn-VN": "Ông Trùm Phú Quý",
+            "th-TH": "มหาเศรษฐี",
+            "default": 22036
+        }
+    },
+    {
+        "gameCode": 27001,
+        "gameImg": "27001.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "錢樹推幣機",
+            "zh-CN": "钱树推币机",
+            "en-US": "MONEY TREE DOZER",
+            "vn-VN": "Máy Ủi Cây Tiền",
+            "th-TH": "เกมดันเหรียญ คางคกทอง",
+            "default": 27001
+        }
+    },
+    {
+        "gameCode": 27002,
+        "gameImg": "27002.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "馬戲團推幣機",
+            "zh-CN": "马戏团推币机",
+            "en-US": "CIRCUS DOZER",
+            "vn-VN": "Máy Ủi Gánh Xiếc",
+            "th-TH": "ตู้ดันเหรียญละครสัตว์",
+            "default": 27002
+        }
+    },
+    {
+        "gameCode": 27003,
+        "gameImg": "27003.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "發財推幣機",
+            "zh-CN": "发财推币机",
+            "en-US": "FA CHAI DOZER",
+            "vn-VN": "Máy Ủi Của Cải",
+            "th-TH": "อาแปะดันเหรียญ",
+            "default": 27003
+        }
+    },
+    {
+        "gameCode": 27005,
+        "gameImg": "27005.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "一觸即發",
+            "zh-CN": "一触即发",
+            "en-US": "LIGHTNING BOMB",
+            "vn-VN": "Hồi Hộp Kịch Tính",
+            "th-TH": "ระเบิดสายฟ้าฟาด",
+            "default": 27005
+        }
+    },
+    {
+        "gameCode": 22048,
+        "gameImg": "22048.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "宙斯",
+            "zh-CN": "宙斯",
+            "en-US": "ZEUS",
+            "vn-VN": "ZEUS",
+            "th-TH": "ซุส",
+            "default": 22048
+        }
+    },
+    {
+        "gameCode": 22050,
+        "gameImg": "22050.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "喵財進寶",
+            "zh-CN": "喵财进宝",
+            "en-US": "WIN WIN NEKO",
+            "vn-VN": "Mèo Tài Tầm Bảo",
+            "th-TH": "แมวกวักทรัพย",
+            "default": 22050
+        }
+    },
+    {
+        "gameCode": 22051,
+        "gameImg": "22051.png",
+        "gameType": "slot",
+        "status": 0,
+        "gameName": {
+            "zh-TW": "財富金蛋",
+            "zh-CN": "财富金蛋",
+            "en-US": "FORTUNE EGG",
+            "vn-VN": "Trứng Vàng",
+            "th-TH": "ไข่ทองคำนำโชค",
+            "default": 22051
+        }
+    }
+]
